@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:background="#65D8F4"
         app:layout_constraintTop_toTopOf="parent"
-        app:title="News"
+        app:title="@string/news_title"
         app:titleTextColor="@color/white" />
 
     <androidx.recyclerview.widget.RecyclerView
